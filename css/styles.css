@@ -111,6 +111,7 @@ body{
 .subtitle{
   color: var(--title-text-color);
   font-weight: 700;
+  font-size: var(--main-font-size);
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
